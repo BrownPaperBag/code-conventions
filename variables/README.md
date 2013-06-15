@@ -9,7 +9,7 @@ $deletedIssue = 'all of them';
 ```
 
 # BAD
-```
+```PHP
 $prod = array('car', 'house');
 $delIss = 'all of them';
 ```
