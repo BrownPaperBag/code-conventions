@@ -8,7 +8,7 @@ $products = array('car', 'house');
 $deletedIssue = 'all of them';
 ```
 
-# BAD
+### BAD
 ```
 $prod = array('car', 'house');
 $delIss = 'all of them';
