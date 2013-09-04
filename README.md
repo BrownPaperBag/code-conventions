@@ -8,9 +8,8 @@
 
 # Sections
 
- - [PHP](php)
- - [JavaScript](javascript)
- - [HTML](html)
- - [CSS/SCSS](css-scss)
-
+ - [PHP](src/php)
+ - [JavaScript](src/javascript)
+ - [HTML](src/html)
+ - [CSS/SCSS](src/css-scss)
 
