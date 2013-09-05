@@ -10,3 +10,10 @@
 
  - Indent with `spaces`, not `tabs`. See the indenting section of your target language
  for specifics
+
+# Languages
+
+ - [PHP](https://github.com/BrownPaperBag/code-conventions/tree/master/php)
+ - [JavaScript](https://github.com/BrownPaperBag/code-conventions/tree/master/javascript)
+ - [CSS-SCSS](https://github.com/BrownPaperBag/code-conventions/tree/master/css-scss)
+ - [HTML](https://github.com/BrownPaperBag/code-conventions/tree/master/html)
