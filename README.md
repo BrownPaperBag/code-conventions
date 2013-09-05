@@ -6,3 +6,7 @@
 > 
 >  -- [MSDN: Why Coding Conventions?](http://msdn.microsoft.com/en-us/library/aa733744(v=vs.60).aspx)
 
+# General
+
+ - Indent with `spaces`, not `tabs`. See the indenting section of your target language
+ for specifics
