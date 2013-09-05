@@ -2,7 +2,7 @@
 
 All selector names must use the hyphenated style.
 
-- - -
+## Example
 
 ```CSS
 .class-name {
@@ -15,6 +15,8 @@ All selector names must use the hyphenated style.
 
 - - -
 
+## Example
+
 ```HTML
 .class-name,
 .different-class-name {
@@ -25,7 +27,11 @@ All selector names must use the hyphenated style.
 ### Note
  - Separate multiple selectors with a `,` and a newline
 
-``CSS
+- - - 
+
+## Example
+
+```CSS
 input[type="email"] {
 
 }
@@ -34,7 +40,7 @@ input[type="email"] {
 }
 ```
 
-### Notes
+### Note
  - Attribute selectors may be used with the following *except* for the
  `input[type="text"]` selector. This relies on the redundant `type="text"`
  attribute being applied to the target elements. Automated optimisers will
