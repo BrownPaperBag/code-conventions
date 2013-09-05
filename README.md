@@ -4,7 +4,7 @@
 > 
 > Good coding conventions result in precise, readable, and unambiguous source code that is consistent with other language conventions and as intuitive as possible.
 > 
->  -- [MSDN: Why Coding Conventions?](http://msdn.microsoft.com/en-us/library/aa733744(v=vs.60).aspx)
+>  -- [MSDN: Why Coding Conventions?](http://msdn.microsoft.com/en-us/library/aa733744)
 
 # General
 
