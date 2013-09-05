@@ -1,20 +1,43 @@
 # Variables
 
-Variables names should be short but descriptive. 
-
-### GOOD
 ```
 $products = array('car', 'house');
 $deletedIssue = 'all of them';
 ```
+## Note
 
-### BAD
+ - Variables names should be short but descriptive
+ - If you feel it necessary to include a comment describing your variable, you have 
+ named it wrong
+
+- - -
+
+```PHP
+for ($personIndex = 0; $personIndex < count($people); $personIndex++) {
+
+}
 ```
-$prod = array('car', 'house');
-$delIss = 'all of them';
+
+## Note
+ - Do not use single character variable names under any circumstances
+
+- - -
+
+```PHP
+$carBrand = 'Toyota';
 ```
 
-Keep variable names as short as possible, but avoid using acronyms or shortening words.
-**Do not use single character variable names under any circumstances**
+## Note
 
-### GOOD
+ - Use single quotes for string declarations
+
+- - -
+
+```PHP
+echo "This car is a {$carBrand}";
+echo "This car is a {$carBrands[0]}";
+```
+
+## Note
+
+ - Use double quotes for strings that have variables interpolated
