@@ -8,3 +8,4 @@
 
  - [Indenting](https://github.com/BrownPaperBag/code-conventions/tree/master/php/indenting)
  - [Variables](https://github.com/BrownPaperBag/code-conventions/tree/master/php/variables)
+ - [Errors](https://github.com/BrownPaperBag/code-conventions/tree/master/php/errors)
