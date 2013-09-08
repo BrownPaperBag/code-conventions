@@ -6,7 +6,8 @@ $deletedIssue = 'all of them';
 ```
 ## Note
 
- - Variables names should be short but descriptive
+ - Camel case
+ - One declaration per line
  - If you feel it necessary to include a comment describing your variable, you have 
  named it wrong
 
