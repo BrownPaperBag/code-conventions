@@ -30,7 +30,7 @@ $carBrand = 'Toyota';
 
 ## Note
 
- - Use single quotes for string declarations
+ - Use single quotes for string declarations that lack interpolated variables
 
 - - -
 
