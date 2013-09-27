@@ -9,4 +9,5 @@ var someVariable = 'a value',
  - Camel case
  - One declaration per line
  - Multiple declarations with one `var` is fine, one per line
+ - Use single quotes (`'`) for string literals
 
