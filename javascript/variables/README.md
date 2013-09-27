@@ -1,6 +1,6 @@
 # Variables
 
-``JavaScript
+```JavaScript
 var someVariable = 'a value',
     anotherVariable = 2;
 ```
